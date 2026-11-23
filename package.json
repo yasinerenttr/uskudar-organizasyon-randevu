@@ -1,0 +1,13 @@
+{
+  "name": "uskudar-organizasyon-rezervasyon",
+  "version": "1.0.0",
+  "description": "Üsküdar Belediyesi Sosyal Tesisleri & Boğaziçi Yaşam Merkezi Yeni Rezervasyon, 350 Kişi Kuralı, Yönetim Paneli ve WhatsApp Bot Sistemi",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

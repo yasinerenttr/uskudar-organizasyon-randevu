@@ -1,0 +1,991 @@
+{
+  "settings": {
+    "showCitizenCalculator": true,
+    "hourlyReminderEnabled": true,
+    "reminderIntervalMinutes": 60,
+    "adminWhatsappPhone": "05525222988"
+  },
+  "reservations": [
+    {
+      "id": "USK-2026-7015",
+      "date": "25.11.2026",
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "facilityId": "bogazici_yasam",
+      "facilityName": "Boğaziçi Yaşam Merkezi",
+      "ownerName": "Emirhan",
+      "purpose": "Kına / Nişan",
+      "tableLayout": "Yuvarlak Banket Düzeni",
+      "rentalType": "Dolu Kiralama",
+      "guestCount": 550,
+      "selectedEvents": [
+        {
+          "id": 1861,
+          "category": "PERSONEL",
+          "name": "Sorumlu",
+          "price": 0,
+          "year": 2026,
+          "qty": 1
+        },
+        {
+          "id": 1865,
+          "category": "PERSONEL",
+          "name": "DJ(BAYAN)",
+          "price": 0,
+          "year": 2026,
+          "qty": 1
+        },
+        {
+          "id": 1864,
+          "category": "PERSONEL",
+          "name": "DJ(BAY)",
+          "price": 0,
+          "year": 2026,
+          "qty": 1
+        }
+      ],
+      "selectedMenus": [
+        {
+          "id": 1499,
+          "name": "KAHVALTI TABAĞI-1",
+          "price": 517.5,
+          "year": 2026,
+          "items": [
+            {
+              "id": 3966,
+              "name": "BEYAZ PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3967,
+              "name": "TAZE KAŞAR PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3968,
+              "name": "ÇEÇİL PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3969,
+              "name": "PAKET REÇEL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3970,
+              "name": "PAKET SÜZME BAL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3971,
+              "name": "PAKET TEREYAĞ",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3972,
+              "name": "SİYAH ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3973,
+              "name": "YEŞİL ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3974,
+              "name": "HAŞLANMIŞ YUMURTA",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3975,
+              "name": "CHERRY DOMATES",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3976,
+              "name": "SALATALIK",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3977,
+              "name": "SİMİT",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 4096,
+              "name": "BARDAK SU 180ML",
+              "price": 0,
+              "group": "İÇECEK"
+            },
+            {
+              "id": 4097,
+              "name": "ÇAY SINIRSIZ",
+              "price": 0,
+              "group": "İÇECEK"
+            }
+          ],
+          "activeItems": [
+            {
+              "id": 3966,
+              "name": "BEYAZ PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3967,
+              "name": "TAZE KAŞAR PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3968,
+              "name": "ÇEÇİL PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3969,
+              "name": "PAKET REÇEL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3970,
+              "name": "PAKET SÜZME BAL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3971,
+              "name": "PAKET TEREYAĞ",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3972,
+              "name": "SİYAH ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3973,
+              "name": "YEŞİL ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3974,
+              "name": "HAŞLANMIŞ YUMURTA",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3975,
+              "name": "CHERRY DOMATES",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3976,
+              "name": "SALATALIK",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3977,
+              "name": "SİMİT",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 4096,
+              "name": "BARDAK SU 180ML",
+              "price": 0,
+              "group": "İÇECEK"
+            },
+            {
+              "id": 4097,
+              "name": "ÇAY SINIRSIZ",
+              "price": 0,
+              "group": "İÇECEK"
+            }
+          ],
+          "removedItems": []
+        }
+      ],
+      "selectedOptionals": [
+        {
+          "id": 1388,
+          "name": "1 KOLİ SU 300ML 12'Lİ 2025",
+          "price": 125,
+          "year": 2025,
+          "qty": 1
+        },
+        {
+          "id": 1479,
+          "name": "1 KOLİ SU 300ML 12'Lİ 2026",
+          "price": 143.75,
+          "year": 2026,
+          "qty": 1
+        },
+        {
+          "id": 1482,
+          "name": "AYRAN 280ML 12'Lİ 2026",
+          "price": 488.75,
+          "year": 2026,
+          "qty": 1
+        },
+        {
+          "id": 1391,
+          "name": "AYRAN 300ML 12'Lİ 2025",
+          "price": 425,
+          "year": 2025,
+          "qty": 1
+        }
+      ],
+      "pricing": {
+        "facilityName": "Boğaziçi Yaşam Merkezi",
+        "guestCount": 550,
+        "waiveThreshold": 350,
+        "maxQuotaThreshold": 500,
+        "baseQuotaGuests": 500,
+        "extraGuestsAbove500": 50,
+        "baseMenuSubtotal": 258750,
+        "extraGuestSubtotal": 25875,
+        "maxCapacity": 500,
+        "hallFeeBase": 20000,
+        "hallFeeApplied": 0,
+        "hallFeeWaived": true,
+        "menuPerPerson": 517.5,
+        "menuSubtotal": 284625,
+        "optionalSubtotal": 1182.5,
+        "grandTotal": 285807.5,
+        "smartUpsellSuggestion": null
+      },
+      "customer": {
+        "firstName": "Emirhan",
+        "lastName": "Altunsu",
+        "tcNo": "61617283838",
+        "phone": "05525069341",
+        "email": "jdndmmdkdkdl@gmail.com",
+        "address": "",
+        "description": ""
+      },
+      "invoice": {
+        "companyName": "",
+        "taxOffice": "",
+        "taxNumber": "",
+        "email": "",
+        "companyAddress": ""
+      },
+      "status": "Onaylandı",
+      "whatsappStatus": "ÜSK-AI Müşteriye WhatsApp Gönderdi (Onaylandı)",
+      "whatsappDeliveredLive": true,
+      "whatsappLastMessage": "*✅ ÜSK-AI | T.C. ÜSKÜDAR BELEDİYESİ REZERVASYON DURUM BİLDİRİMİ*\n\nSayın *Emirhan Altunsu*,\n*USK-2026-7015* takip kodlu organizasyon başvurunuzun durumu *ONAYLANDI* olarak güncellenmiştir:\n\n*Tesis:* Boğaziçi Yaşam Merkezi\n*Tarih & Saat:* 25.11.2026 | 09:00 - 12:00\n*Organizasyon & Kişi:* Kına / Nişan (550 Kişi)\n*Toplam Tutar:* ₺285.807,50\n\n🎉 Rezervasyonunuz *Üsküdar Belediyesi Onay Paneli* tarafından onaylanmıştır. Organizasyon gününde tesisimizde görüşmek dileğiyle!",
+      "reminderCount": 0,
+      "lastReminderAt": "2026-11-22T14:21:26.656Z",
+      "createdAt": "2026-11-22T14:21:26.656Z",
+      "auditLog": [
+        {
+          "id": "AUD-1795357286656-593",
+          "at": "2026-11-22T14:21:26.656Z",
+          "actor": "citizen",
+          "type": "reservation_created",
+          "summary": "Başvuru oluşturuldu (Boğaziçi Yaşam Merkezi, 550 Kişi, ₺285.807,50)."
+        },
+        {
+          "id": "AUD-1795357307904-119",
+          "at": "2026-11-22T14:21:47.904Z",
+          "actor": "admin",
+          "type": "status_updated",
+          "summary": "Durum \"Onay Bekliyor\" → \"Onaylandı\" olarak güncellendi."
+        },
+        {
+          "id": "AUD-1795357320071-531",
+          "at": "2026-11-22T14:22:00.071Z",
+          "actor": "citizen",
+          "type": "feedback_linked",
+          "summary": "SHK-2026-2489 kodlu geri bildirim bağlandı (Tesis/Hizmet, ★5/5)."
+        }
+      ],
+      "adminNote": "",
+      "updatedAt": "2026-11-22T14:21:47.642Z"
+    },
+    {
+      "id": "USK-2026-8514",
+      "date": "27.11.2026",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "facilityId": "nevmekan_sahil",
+      "facilityName": "Üsküdar Nevmekan Sahil (Davet & Organizasyon Salonu)",
+      "ownerName": "Emirhan Altunsu",
+      "purpose": "Kahvaltı",
+      "tableLayout": "Kokteyl Düzeni",
+      "rentalType": "Boş Salon Kiralama",
+      "guestCount": 2,
+      "selectedEvents": [],
+      "selectedMenus": [],
+      "selectedOptionals": [],
+      "pricing": {
+        "facilityName": "Üsküdar Nevmekan Sahil (Davet & Organizasyon Salonu)",
+        "guestCount": 2,
+        "waiveThreshold": 350,
+        "maxQuotaThreshold": 500,
+        "baseQuotaGuests": 2,
+        "extraGuestsAbove500": 0,
+        "baseMenuSubtotal": 0,
+        "extraGuestSubtotal": 0,
+        "maxCapacity": 500,
+        "hallFeeBase": 20000,
+        "hallFeeApplied": 20000,
+        "hallFeeWaived": false,
+        "menuPerPerson": 0,
+        "menuSubtotal": 0,
+        "optionalSubtotal": 0,
+        "grandTotal": 20000,
+        "smartUpsellSuggestion": null
+      },
+      "customer": {
+        "firstName": "Emirhan",
+        "lastName": "Altunsu",
+        "tcNo": "10796557268",
+        "phone": "5525069341",
+        "email": "emirhanaltunsu512@gmail.com",
+        "address": "Sanane",
+        "description": "Yok"
+      },
+      "invoice": {
+        "companyName": "",
+        "taxOffice": "",
+        "taxNumber": "",
+        "email": "",
+        "companyAddress": ""
+      },
+      "status": "Onaylandı",
+      "whatsappStatus": "ÜSK-AI Bildirimi Gönderildi (Onaylandı)",
+      "whatsappDeliveredLive": true,
+      "whatsappLastMessage": "*ÜSK-AI | T.C. ÜSKÜDAR BELEDİYESİ ONAY BİLDİRİMİ*\n\nSayın *Emirhan Altunsu*,\n*USK-2026-8514* takip kodlu *Üsküdar Nevmekan Sahil (Davet & Organizasyon Salonu)* (27.11.2026 12:00-13:00, 2 Kişi Kahvaltı) başvurunuzun durumu Onay Paneli tarafından *ONAYLANDI* olarak güncellenmiştir.",
+      "reminderCount": 0,
+      "lastReminderAt": "2026-11-22T14:07:23.342Z",
+      "createdAt": "2026-11-22T14:07:23.342Z",
+      "auditLog": [
+        {
+          "id": "AUD-1795356443342-620",
+          "at": "2026-11-22T14:07:23.342Z",
+          "actor": "citizen",
+          "type": "reservation_created",
+          "summary": "Başvuru oluşturuldu (Üsküdar Nevmekan Sahil (Davet & Organizasyon Salonu), 2 Kişi, ₺20.000,00)."
+        },
+        {
+          "id": "AUD-1795356579885-186",
+          "at": "2026-11-22T14:09:39.885Z",
+          "actor": "admin",
+          "type": "status_updated",
+          "summary": "Durum \"Onay Bekliyor\" → \"Onaylandı\" olarak güncellendi."
+        },
+        {
+          "id": "AUD-1795356583855-752",
+          "at": "2026-11-22T14:09:43.855Z",
+          "actor": "admin",
+          "type": "status_updated",
+          "summary": "Durum \"Onaylandı\" → \"Onaylandı\" olarak güncellendi."
+        }
+      ],
+      "adminNote": "",
+      "updatedAt": "2026-11-22T14:09:43.618Z"
+    },
+    {
+      "id": "USK-2026-4917",
+      "date": "30.11.2026",
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "facilityId": "nevmekan_selimiye",
+      "facilityName": "Üsküdar Nevmekan Selimiye",
+      "ownerName": "eren",
+      "purpose": "Kahvaltı",
+      "tableLayout": "Kokteyl Düzeni",
+      "rentalType": "Boş Salon Kiralama",
+      "guestCount": 350,
+      "selectedEvents": [
+        {
+          "id": 1861,
+          "category": "PERSONEL",
+          "name": "Sorumlu",
+          "price": 0,
+          "year": 2026,
+          "qty": 1
+        },
+        {
+          "id": 1862,
+          "category": "PERSONEL",
+          "name": "Çaycı",
+          "price": 0,
+          "year": 2026,
+          "qty": 1
+        }
+      ],
+      "selectedMenus": [
+        {
+          "id": 1499,
+          "name": "KAHVALTI TABAĞI-1",
+          "price": 517.5,
+          "year": 2026,
+          "items": [
+            {
+              "id": 3966,
+              "name": "BEYAZ PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3967,
+              "name": "TAZE KAŞAR PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3968,
+              "name": "ÇEÇİL PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3969,
+              "name": "PAKET REÇEL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3970,
+              "name": "PAKET SÜZME BAL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3971,
+              "name": "PAKET TEREYAĞ",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3972,
+              "name": "SİYAH ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3973,
+              "name": "YEŞİL ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3974,
+              "name": "HAŞLANMIŞ YUMURTA",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3975,
+              "name": "CHERRY DOMATES",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3976,
+              "name": "SALATALIK",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3977,
+              "name": "SİMİT",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 4096,
+              "name": "BARDAK SU 180ML",
+              "price": 0,
+              "group": "İÇECEK"
+            },
+            {
+              "id": 4097,
+              "name": "ÇAY SINIRSIZ",
+              "price": 0,
+              "group": "İÇECEK"
+            }
+          ],
+          "activeItems": [
+            {
+              "id": 3966,
+              "name": "BEYAZ PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3967,
+              "name": "TAZE KAŞAR PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3968,
+              "name": "ÇEÇİL PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3970,
+              "name": "PAKET SÜZME BAL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3971,
+              "name": "PAKET TEREYAĞ",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3972,
+              "name": "SİYAH ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3973,
+              "name": "YEŞİL ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3974,
+              "name": "HAŞLANMIŞ YUMURTA",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3976,
+              "name": "SALATALIK",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3977,
+              "name": "SİMİT",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 4096,
+              "name": "BARDAK SU 180ML",
+              "price": 0,
+              "group": "İÇECEK"
+            },
+            {
+              "id": 4097,
+              "name": "ÇAY SINIRSIZ",
+              "price": 0,
+              "group": "İÇECEK"
+            }
+          ],
+          "removedItems": [
+            {
+              "id": 3969,
+              "name": "PAKET REÇEL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3975,
+              "name": "CHERRY DOMATES",
+              "price": 0,
+              "group": "SALATA"
+            }
+          ]
+        }
+      ],
+      "selectedOptionals": [
+        {
+          "id": 1388,
+          "name": "1 KOLİ SU 300ML 12'Lİ 2025",
+          "price": 125,
+          "year": 2025,
+          "qty": 1
+        },
+        {
+          "id": 1479,
+          "name": "1 KOLİ SU 300ML 12'Lİ 2026",
+          "price": 143.75,
+          "year": 2026,
+          "qty": 1
+        },
+        {
+          "id": 1482,
+          "name": "AYRAN 280ML 12'Lİ 2026",
+          "price": 488.75,
+          "year": 2026,
+          "qty": 1
+        },
+        {
+          "id": 1391,
+          "name": "AYRAN 300ML 12'Lİ 2025",
+          "price": 425,
+          "year": 2025,
+          "qty": 1
+        },
+        {
+          "id": 1393,
+          "name": "BARDAK ÇAY 2025",
+          "price": 20,
+          "year": 2025,
+          "qty": 1
+        },
+        {
+          "id": 1484,
+          "name": "BARDAK ÇAY 2026",
+          "price": 23,
+          "year": 2026,
+          "qty": 2
+        },
+        {
+          "id": 1451,
+          "name": "BARDAK LİMONATA",
+          "price": 58,
+          "year": 2026,
+          "qty": 1
+        }
+      ],
+      "pricing": {
+        "facilityName": "Üsküdar Nevmekan Selimiye",
+        "guestCount": 350,
+        "waiveThreshold": 350,
+        "maxCapacity": 350,
+        "hallFeeBase": 18000,
+        "hallFeeApplied": 18000,
+        "hallFeeWaived": false,
+        "menuPerPerson": 517.5,
+        "menuSubtotal": 181125,
+        "optionalSubtotal": 1306.5,
+        "grandTotal": 200431.5,
+        "smartUpsellSuggestion": null
+      },
+      "customer": {
+        "firstName": "YasinEren",
+        "lastName": "Tatar",
+        "tcNo": "",
+        "phone": "05525222988",
+        "email": "tataryasineren@gmail.com",
+        "address": "istanbul üsküdar yavuztürk mah altuncu sokak\nistanbul",
+        "description": "dsdfsfs"
+      },
+      "invoice": {
+        "companyName": "Other",
+        "email": "",
+        "taxOffice": "",
+        "taxNumber": "",
+        "companyAddress": ""
+      },
+      "status": "Onaylandı",
+      "whatsappStatus": "ÜSK-AI Bildirimi Gönderildi (Onaylandı)",
+      "whatsappDeliveredLive": true,
+      "whatsappLastMessage": "*ÜSK-AI | T.C. ÜSKÜDAR BELEDİYESİ ONAY BİLDİRİMİ*\n\nSayın *YasinEren Tatar*,\n*USK-2026-4917* takip kodlu *Üsküdar Nevmekan Selimiye* (30.11.2026 09:00-12:00, 350 Kişi Kahvaltı) başvurunuzun durumu Onay Paneli tarafından *ONAYLANDI* olarak güncellenmiştir.",
+      "createdAt": "2026-11-21T00:01:29.220Z",
+      "reminderCount": 20,
+      "lastReminderAt": "2026-11-22T14:02:26.737Z",
+      "lastReminderMessage": "*⏰ ÜSK-AI | CEVAPLANMAYAN RANDEVU HATIRLATMASI (20. Hatırlatma)*\n\nDikkat! Aşağıdaki organizasyon randevu başvurusu *38 saattir ONAY BEKLİYOR* ve henüz cevaplanmadı:\n\n*Başvuru Kodu:* USK-2026-4917\n*Randevu Yapan:* YasinEren Tatar (05525222988)\n*Tesis / Mekan:* Üsküdar Nevmekan Selimiye\n*Tarih & Saat:* 30.11.2026 | 09:00 - 12:00\n*Amaç & Kişi:* Kahvaltı — *350 Kişi*\n*Hesaplanan Tutar:* ₺200.431,50\n\n👉 Lütfen *Onay Paneli (/yonetim)* üzerinden başvuruyu *Onayla*, *Revize İste* veya *İptal Et* olarak cevaplayınız. (Cevaplanana kadar her 1 saatte bir hatırlatılacaktır).",
+      "auditLog": [
+        {
+          "id": "AUD-1795264449194-825",
+          "at": "2026-11-21T12:34:09.194Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "11. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795269749945-119",
+          "at": "2026-11-21T14:02:29.945Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "12. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795275155470-610",
+          "at": "2026-11-21T15:32:35.470Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "13. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795278776513-112",
+          "at": "2026-11-21T16:32:56.513Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "14. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795282415783-613",
+          "at": "2026-11-21T17:33:35.783Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "15. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795286034984-474",
+          "at": "2026-11-21T18:33:54.984Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "16. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795289690898-286",
+          "at": "2026-11-21T19:34:50.898Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "17. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795293351077-269",
+          "at": "2026-11-21T20:35:51.078Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "18. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795297010773-679",
+          "at": "2026-11-21T21:36:50.773Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "19. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795356146737-439",
+          "at": "2026-11-22T14:02:26.737Z",
+          "actor": "system",
+          "type": "reminder_sent",
+          "summary": "20. hatırlatma gönderildi (Saatlik Otomatik Motor)."
+        },
+        {
+          "id": "AUD-1795356487181-212",
+          "at": "2026-11-22T14:08:07.181Z",
+          "actor": "admin",
+          "type": "status_updated",
+          "summary": "Durum \"Onay Bekliyor\" → \"Onaylandı\" olarak güncellendi."
+        },
+        {
+          "id": "AUD-1795356487681-578",
+          "at": "2026-11-22T14:08:07.681Z",
+          "actor": "admin",
+          "type": "status_updated",
+          "summary": "Durum \"Onaylandı\" → \"Onaylandı\" olarak güncellendi."
+        }
+      ],
+      "adminNote": "",
+      "updatedAt": "2026-11-22T14:08:07.474Z"
+    },
+    {
+      "id": "USK-2026-1042",
+      "date": "30.11.2026",
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "facilityId": "bogazici_yasam",
+      "facilityName": "Boğaziçi Yaşam Merkezi",
+      "ownerName": "Ahmet Yılmaz",
+      "purpose": "Kahvaltı",
+      "tableLayout": "Masalı Düzen",
+      "rentalType": "Dolu Kiralama",
+      "guestCount": 350,
+      "selectedEvents": [
+        {
+          "id": 1861,
+          "name": "Sorumlu",
+          "qty": 1,
+          "price": 0
+        },
+        {
+          "id": 1862,
+          "name": "Çaycı",
+          "qty": 2,
+          "price": 0
+        },
+        {
+          "id": 1863,
+          "name": "Bulaşıkçı",
+          "qty": 2,
+          "price": 0
+        }
+      ],
+      "selectedMenus": [
+        {
+          "id": 1499,
+          "name": "KAHVALTI TABAĞI-1",
+          "price": 517.5,
+          "qty": 350,
+          "removedItems": [],
+          "activeItems": [
+            {
+              "id": 3966,
+              "name": "BEYAZ PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3967,
+              "name": "TAZE KAŞAR PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3968,
+              "name": "ÇEÇİL PEYNİR",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3969,
+              "name": "PAKET REÇEL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3970,
+              "name": "PAKET SÜZME BAL",
+              "price": 0,
+              "group": "TATLI"
+            },
+            {
+              "id": 3971,
+              "name": "PAKET TEREYAĞ",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3972,
+              "name": "SİYAH ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3973,
+              "name": "YEŞİL ZEYTİN",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3974,
+              "name": "HAŞLANMIŞ YUMURTA",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 3975,
+              "name": "CHERRY DOMATES",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3976,
+              "name": "SALATALIK",
+              "price": 0,
+              "group": "SALATA"
+            },
+            {
+              "id": 3977,
+              "name": "SİMİT",
+              "price": 0,
+              "group": "ANA YEMEK"
+            },
+            {
+              "id": 4096,
+              "name": "BARDAK SU 180ML",
+              "price": 0,
+              "group": "İÇECEK"
+            },
+            {
+              "id": 4097,
+              "name": "ÇAY SINIRSIZ",
+              "price": 0,
+              "group": "İÇECEK"
+            }
+          ]
+        }
+      ],
+      "selectedOptionals": [
+        {
+          "id": 1479,
+          "name": "1 KOLİ SU 300ML 12'Lİ 2026",
+          "price": 143.75,
+          "qty": 10
+        }
+      ],
+      "pricing": {
+        "guestCount": 350,
+        "hallFeeBase": 20000,
+        "hallFeeApplied": 0,
+        "hallFeeWaived": true,
+        "menuSubtotal": 181125,
+        "optionalSubtotal": 1437.5,
+        "grandTotal": 182562.5
+      },
+      "customer": {
+        "firstName": "Ahmet",
+        "lastName": "Yılmaz",
+        "tcNo": "12345678901",
+        "phone": "05525222988",
+        "email": "ahmet.yilmaz@ornek.com",
+        "address": "Üsküdar / İstanbul",
+        "description": "Deniz tarafı masa düzeni rica olunur."
+      },
+      "invoice": {
+        "companyName": "Ahmet Yılmaz",
+        "email": "ahmet.yilmaz@ornek.com",
+        "taxOffice": "Üsküdar",
+        "taxNumber": "12345678901",
+        "companyAddress": "Üsküdar / İstanbul"
+      },
+      "status": "Onaylandı",
+      "whatsappStatus": "ÜSKÜ-AI Tarafından İletildi",
+      "whatsappLastMessage": "*ÜSKÜ-AI | T.C. ÜSKÜDAR BELEDİYESİ ORGANİZASYON BİLDİRİMİ*\n\nSayın *Ahmet Yılmaz*,\n*Boğaziçi Yaşam Merkezi* için 30.11.2026 (09:00 - 12:00) tarihli, *350 Kontenjan* (Kahvaltı Tabağı-1) rezervasyon başvurunuz *USK-2026-1042* koduyla Onay Paneline iletilmiştir.\n\n*Kontenjan Kuralı:* 350 Kontenjan (Tek kalem ücret uygulanmış, ekstra mekan farkı alınmamıştır).\n*Toplam Tutar:* ₺182.562,50",
+      "createdAt": "2026-11-20T20:43:51.408Z"
+    }
+  ],
+  "complaints": [
+    {
+      "id": "SHK-2026-2489",
+      "trackingCode": "USK-2026-7015",
+      "reservationId": "USK-2026-7015",
+      "customerName": "E*** A***",
+      "phone": "",
+      "category": "Tesis/Hizmet",
+      "rating": 5,
+      "message": "USK-2026-7015 başvurusu için 5/5 memnuniyet puanı.",
+      "status": "Açık",
+      "resolutionNote": "",
+      "createdAt": "2026-11-22T14:22:00.071Z",
+      "updatedAt": "2026-11-22T14:22:00.071Z",
+      "resolvedAt": null,
+      "auditLog": [
+        {
+          "id": "AUD-1795357320071-853",
+          "at": "2026-11-22T14:22:00.071Z",
+          "actor": "citizen",
+          "type": "feedback_created",
+          "summary": "Geri bildirim oluşturuldu (Kategori: Tesis/Hizmet, Puan: 5/5)."
+        }
+      ]
+    }
+  ]
+}
